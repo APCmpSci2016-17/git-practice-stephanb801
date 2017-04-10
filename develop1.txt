@@ -1,0 +1,7 @@
+git checkout master (Switches to master)
+git branch -D develop newfeature (Removes branchs)
+git push origin :develop :newfeature (Updates it)
+git tag -d V0.1 (Removes tag)
+git push origin :V0.1 (Updates it)
+git reset --hard <last commit ID> (resets commits)
+git push -force (Updates it)
