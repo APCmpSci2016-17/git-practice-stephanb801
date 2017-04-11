@@ -1,0 +1,13 @@
+master:
+README.md
+.gitignore
+develop1.txt
+MyRepo.txt
+
+develop:
+develop2
+develop3
+
+newfeature:
+newfeature.txt
+status.txt
